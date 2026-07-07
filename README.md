@@ -122,11 +122,9 @@ Titanic-Survival-Prediction/
 
 **Tushar Patel**
 
-AI & Machine Learning Enthusiast
+Full Stack , AI & Machine Learning Enthusiast
 
-GitHub: https://github.com/BinaryTp
 
-LinkedIn: *(Add your LinkedIn profile link here.)*
 
 ---
 
